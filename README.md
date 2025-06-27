@@ -182,7 +182,6 @@ xhook_refresh(1);
 
 * [GitHub Issues](https://github.com/iqiyi/xHook/issues)
 * [GitHub Discussions](https://github.com/iqiyi/xHook/discussions)
-* [Telegram Public Group](https://t.me/android_native_geeks)
 
 
 ## Contributing
